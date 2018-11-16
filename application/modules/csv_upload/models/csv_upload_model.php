@@ -1,0 +1,13 @@
+<?php
+
+class Csv_upload_model extends HT_Model 
+{
+	function __construct() {
+
+		parent::__construct();		
+
+	}
+        
+    
+    
+}
